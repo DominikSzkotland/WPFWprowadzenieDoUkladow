@@ -17,5 +17,11 @@
         <Button>7</Button>
         <Button>8</Button>
         <Button>9</Button>
+        <Canvas HorizontalAlignment="Center">
+            <Rectangle
+                Width="100"
+                Height="200"
+                Fill="Coral"></Rectangle>
+        </Canvas>
     </DockPanel>
 </Window>
